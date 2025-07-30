@@ -12,9 +12,9 @@ This project contains an interactive Power BI dashboard designed to analyze cons
 
 The main dashboard provides a high-level summary of the business performance, including:
 
-- 📈 Total Sales and Monthly Trends (`Συνολικές Πωλήσεις`, `Μηνιαία Ανάλυση`)
+- 📈 Total Sales and Monthly Trends
 - 🛍️ Top-selling Products and their Contribution
-- 🌍 Regional Breakdown of Sales (`Ανά Περιοχή`)
+- 🌍 Regional Breakdown of Sales
 - 📅 Year-over-Year and Monthly comparisons
 
 Interactive slicers allow filtering by:
